@@ -14,9 +14,11 @@ My Live Web Site for visit [Live Link](https://chans-gym.netlify.app/).
 * bullet 8 Used Exercise Details
 
 ## Design Overview
-- [More on my Behance][image](https://user-images.githubusercontent.com/89825678/174645560-932872e0-52c7-487d-866c-402b23d82615.png)
-![project image][image](https://user-images.githubusercontent.com/89825678/174645624-d08ea745-14e3-44cd-9941-af98ba4becb0.png)
-![project image][image](https://user-images.githubusercontent.com/89825678/174645682-551ae912-1d87-4d44-9408-1d19eea5247a.png)
+- [More on my Behance]
+![image](https://user-images.githubusercontent.com/89825678/174646317-28d348eb-d7b0-427b-882e-e8ac9ac5beb6.png)
+![image](https://user-images.githubusercontent.com/89825678/174646362-c2c4503f-ffe1-4171-a502-54d371a62b43.png)
+![image](https://user-images.githubusercontent.com/89825678/174646438-40a251e5-a05f-41d3-a978-06102ad0c586.png)
+
 
 
 
